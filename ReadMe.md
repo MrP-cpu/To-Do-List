@@ -53,12 +53,12 @@ Tasks are stored in a binary file `todo.txt`. Each record consists of a struct w
 
 ## Future Improvements / Suggestions
 
-- [ ]Add priority levels and sort tasks by priority.
-- [ ]Implement search by keywords.
-- [ ]Use status (Pending/Completed) instead of deleting tasks.
-- [ ]Store tasks in text formats like JSON or CSV.
-- [ ]Add undo for delete/edit actions.
-- [ ]Improve error handling and input validation.
-- [ ]Ensure cross-platform compatibility.
-- [ ]Create a GUI version for better usability.
+- [ ] Add priority levels and sort tasks by priority.
+- [ ] Implement search by keywords.
+- [ ] Use status (Pending/Completed) instead of deleting tasks.
+- [ ] Store tasks in text formats like JSON or CSV.
+- [ ] Add undo for delete/edit actions.
+- [ ] Improve error handling and input validation.
+- [ ] Ensure cross-platform compatibility.
+- [ ] Create a GUI version for better usability.
 
