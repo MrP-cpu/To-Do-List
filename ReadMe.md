@@ -52,29 +52,12 @@ Tasks are stored in a binary file `todo.txt`. Each record consists of a struct w
 ---
 
 ## Future Improvements / Suggestions
+* []Add priority levels and sort tasks by priority.
+* []Implement search by keywords.
+* []Use status (Pending/Completed) instead of deleting tasks.
+* []Store tasks in text formats like JSON or CSV.
+* []Add undo for delete/edit actions.
+* []Improve error handling and input validation.
+* []Ensure cross-platform compatibility.
+* []Create a GUI version for better usability.
 
-1. **Task Prioritization:** Add a priority field (e.g., High, Medium, Low) and allow sorting tasks based on priority.
-
-2. **Due Dates:** Allow tasks to have due dates and implement sorting or filtering by due date.
-
-3. **Search Tasks:** Implement a search functionality to find tasks by keywords or partial matches.
-
-4. **Task Status:** Instead of deleting tasks, add a status field (Pending, Completed) and allow toggling between them.
-
-5. **User Interface:** Enhance the interface by adding colors or using a more interactive CLI library (e.g., ncurses).
-
-6. **Data Format:** Switch from binary to text-based storage (e.g., JSON or CSV) for easier manual editing and portability.
-
-7. **Undo Feature:** Allow undoing the last delete or edit operation.
-
-8. **Multi-User Support:** Support multiple users with separate task lists.
-
-9. **Backup & Restore:** Implement backup of task files and restore functionality.
-
-10. **Error Handling:** Improve error handling and input validation for robustness.
-
-11. **Cross-Platform Compatibility:** Test and ensure the program works smoothly on Windows, macOS, and Linux.
-
-12. **GUI Version:** Develop a graphical user interface for better user experience.
-
----
