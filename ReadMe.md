@@ -1,7 +1,3 @@
-Sure! Here's a **README.md** file for your To-Do List program, along with some suggestions for future improvements.
-
----
-
 # To-Do List Application
 
 A simple command-line To-Do List application written in C that allows users to add, view, edit, and delete tasks. Tasks are stored persistently in a file named `todo.txt`.
